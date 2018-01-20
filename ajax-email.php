@@ -1,8 +1,8 @@
 <?php
 
 /* SETTINGS */
-$yourEmail = "web@copadigitalgroup.com";
-$emailSubject = "Copa";
+$yourEmail = "hello@copadigitalgroup.com";
+$emailSubject = "Copa Digital - Inquiry";
 
 if( $_POST ) {
 

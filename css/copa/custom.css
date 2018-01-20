@@ -29,8 +29,8 @@
 	    width: 16%;
 	}*/
 	.dot:after {
-	    width: 6px;
-    	height: 6px;
+	width: 15px;
+    	height: 15px;
 	}
 
 }
